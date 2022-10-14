@@ -1,6 +1,6 @@
-<h1> Happy happy Devops 222222222  </h1>
-<h2> :) :) yes </h2>
-<h2> oooooooooooooo </h2>
-<h1> 6 figures is on the way</h1>
+<h1> Finally I have completed my Devops training  </h1>
+<h2> in less than a month, I will be making 6 figures </h2>
+<h2> Thank you Lord </h2>
+<h1> Please help me for this to be a reality</h1>
 
-<h1> this has been a great TROUBLESHOOTING EXERCISE  xxxx  <h1>
+<h1> Amen and Amen and Amen !!!!!!!!!  <h1>
