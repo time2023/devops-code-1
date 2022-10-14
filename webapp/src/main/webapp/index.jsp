@@ -3,4 +3,4 @@
 <h2> oooooooooooooo </h2>
 <h1> 6 figures is on the way</h1>
 
-<h1> We will be making 6 figures  <h1>
+<h1> this has been a great TROUBLESHOOTING EXERCISE  <h1>
