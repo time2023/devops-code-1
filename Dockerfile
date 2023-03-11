@@ -2,5 +2,5 @@
 From tomcat:8-jre8 
 
 # Maintainer 
-MAINTAINER "Ikecook1" 
+MAINTAINER "Isaac" 
 COPY webapp/target/devops.war /usr/local/tomcat/webapps
